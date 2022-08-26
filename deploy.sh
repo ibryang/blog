@@ -1,7 +1,7 @@
 # !/bin/bash
 
 set -e
-
+rm -rf docs/.vitepress/dist
 yarn docs:build
 
 cd docs/.vitepress/dist

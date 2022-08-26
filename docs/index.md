@@ -3,8 +3,8 @@ layout: home
 
 hero:  # 首页部分
   name: Ibryang
-  text: Hello World! My name is Ibryang
-  tagline: Lorem ipsum...
+  text: 一个简简单单的博客
+  tagline: 我是ibryang，一个简简单单的博客
   image:
     src: /icon.png
     alt: VitePress
@@ -15,17 +15,6 @@ hero:  # 首页部分
     - theme: alt
       text: View on GitHub
       link: https://github.com/ibryang/blog
-
-features:  # 其他项目
-  - icon: ⚡️
-    title: Vite, The DX that can't be beat
-    details: Lorem ipsum...
-  - icon: 🖖
-    title: Power of Vue meets Markdown
-    details: Lorem ipsum...
-  - icon: 🛠️
-    title: Simple and minimal, always
-    details: Lorem ipsum...
 ---
 <style>
     :root {
